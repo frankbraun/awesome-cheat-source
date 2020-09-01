@@ -20,3 +20,4 @@ Like an awesome list, but for _cheat source_.
 
 -   [C](c.c) (+ [header](c.h))
 -   [Go](golang.go)
+-   [HTML5](html5.html)
