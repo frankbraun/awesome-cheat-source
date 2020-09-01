@@ -18,4 +18,5 @@ Like an awesome list, but for _cheat source_.
 
 ### Contents
 
+-   [C](c.c) (+ [header](c.h))
 -   [Go](golang.go)
