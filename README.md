@@ -14,6 +14,7 @@ Like an awesome list, but for _cheat source_.
 -   Add comments in the cheat source.
 -   Runnable code only (whatever "runnable" means for the language in
     question).
+-   `make all` builds the cheat source, `make test` tests it.
 
 ### Contents
 
