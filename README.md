@@ -1,9 +1,9 @@
 Awesome Cheat Source
 --------------------
 
-Like an awesome list, but for cheat source.
+Like an awesome list, but for _cheat source_.
 
-**Cheat source is a cheat sheet which is runnable source code.**
+**Cheat source is a runnable cheat sheet.**
 
 ### Rules of the game
 
