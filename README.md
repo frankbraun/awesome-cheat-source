@@ -15,6 +15,7 @@ Like an awesome list, but for _cheat source_.
 -   Runnable code only (whatever "runnable" means for the language in
     question).
 -   `make all` builds the cheat source, `make test` tests it.
+-   _Send pull requests._
 
 ### Contents
 
