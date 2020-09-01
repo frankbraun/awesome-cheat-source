@@ -61,7 +61,9 @@ func fatal(err error) {
 	os.Exit(1)
 }
 
+// main function.
 func main() {
+	fmt.Println(os.Args[0])
 	s, err := hello("world") // definition of two variables via ':='
 	if err != nil {          // typical error check
 		fatal(err)
