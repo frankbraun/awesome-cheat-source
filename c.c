@@ -19,7 +19,8 @@ int hello(const char *name)
 }
 
 /* static functions are not visible outside the compilation unit */
-static void loops(void) {
+static void loops(void)
+{
   int i;
 
   /* for loop */
